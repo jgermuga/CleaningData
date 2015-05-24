@@ -1,5 +1,5 @@
 ##Set the working directory
-setwd("C:/Users/GadgetMaster/Documents/DataScienceCourse/CleaningData/UCI HAR Dataset/")
+##setwd("C:/Users/GadgetMaster/Documents/DataScienceCourse/CleaningData/UCI HAR Dataset/")
 
 
 ##read in features to be used as column headings
